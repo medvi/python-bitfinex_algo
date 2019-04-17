@@ -27,7 +27,7 @@ setup(
     name='bitfinex-algo',
     version='0.0.0',
     license='BSD 2-Clause License',
-    description='Scde Ventures task',
+    description='Trading robot',
     long_description='%s\n%s' % (
         re.compile('^.. start-badges.*^.. end-badges', re.M | re.S).sub('', read('README.rst')),
         re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))

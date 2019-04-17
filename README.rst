@@ -58,7 +58,7 @@ Overview
 
 .. end-badges
 
-Scde Ventures task
+Trading robot
 
 * Free software: BSD 2-Clause License
 

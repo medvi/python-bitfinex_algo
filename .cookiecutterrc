@@ -38,7 +38,7 @@ default_context:
     linter:                    'flake8'
     package_name:              'bitfinex_algo'
     project_name:              'bitfinex_algo'
-    project_short_description: 'Scde Ventures task'
+    project_short_description: 'Trading robot'
     release_date:              'today'
     repo_name:                 'python-bitfinex_algo'
     requiresio:                'yes'
