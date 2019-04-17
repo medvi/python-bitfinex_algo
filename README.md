@@ -1,4 +1,4 @@
 # python-bitfinex_algo
-Запуск робот
+Запуск робота
 
  `docker-compose up --build`
