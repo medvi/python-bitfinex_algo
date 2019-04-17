@@ -1,0 +1,13 @@
+levels:
+  - buy-price: 95
+    sell-price: 100
+    order-size: 100
+    order-count: asd
+
+  - buy-price: 100
+    sell-price: 105
+    order-size:
+      error: 105
+    order-count: 1
+
+update-frequency: 3
