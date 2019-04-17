@@ -1,2 +1,4 @@
 # python-bitfinex_algo
-Scde Ventures task
+Запуск робот
+
+ `docker-compose up --build`
